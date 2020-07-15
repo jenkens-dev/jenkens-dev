@@ -2,6 +2,7 @@
 
 ***
 
+![githubBanner](https://user-images.githubusercontent.com/25398021/87609292-fa113280-c6b6-11ea-9147-ebfac924936e.jpg)
 <!--
 **Taljjaa/Taljjaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
