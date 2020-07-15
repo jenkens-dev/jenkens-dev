@@ -27,9 +27,10 @@ I'm a full-stack developer, focusing on frontend, whose ultimate goal is to use 
 - [Personal portfolio](https://jenniferwilliams.dev/) 👩🏼‍💻 , check out some of my personal projects, built with Gatsby 
 - [Digital Garden](https://the-learning-project.netlify.app/) 🌱 , a pressure free place where I post my thoughts and learnings about tech
 
-#### Fun fact about me
+### Fun facts about me
 
 ***
 
 - I love learning languages! I'm currently learning Japanese and Chinese, but I plan to teach myself Korean and German 🇯🇵 🇨🇳 🇰🇷 🇩🇪 
 - In my free time I enjoy riding my bike 🚴🏻‍♀️ , drawing ✏️ , and reading 📚
+- I have a degree in Zoology! 🦉
