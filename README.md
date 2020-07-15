@@ -25,7 +25,7 @@ I'm a full-stack developer, focusing on frontend, whose ultimate goal is to use 
 
 ***
 
-- [Twitter](https://twitter.com/jenkens_) ✍🏻 , 
+- [Twitter](https://twitter.com/jenkens_) ✍🏻 
 - [Personal portfolio](https://jenniferwilliams.dev/) 👩🏼‍💻 , check out some of my personal projects, built with Gatsby 
 - [Digital Garden](https://the-learning-project.netlify.app/) 🌱 , a pressure free place where I post my thoughts and learnings about tech
 
