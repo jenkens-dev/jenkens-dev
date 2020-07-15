@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Jen (she/her) 👋🏼
 
 <!--
 **Taljjaa/Taljjaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Where to find me 
+- Twitter
+- Personal portfolio 👩🏼‍💻
+- Digital Garden 🌱 
