@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm a full-stack developer whose ultimate goal is to use technology to have a positive impact on the world around me. I love working with TypeScript, React, and GraphQL. I'm currently working on website to connect nonprofits and volunteers, built with React, TypeScript, GraphQL & Apollo, and PostgreSQL. Feel free to check it out [here](https://github.com/Taljjaa/PlayItForward-Client)! I'm looking for my first full time developer position and I'd love to connect with other people on [LinkedIn](https://www.linkedin.com/in/jennifer-m-williams/). 
+
 ### Where to find me 
-- Twitter
-- Personal portfolio 👩🏼‍💻
-- Digital Garden 🌱 
+- [Twitter](https://twitter.com/jenkens_) ✍🏻
+- [Personal portfolio](https://jenniferwilliams.dev/) 👩🏼‍💻
+- [Digital Garden](https://the-learning-project.netlify.app/) 🌱 
