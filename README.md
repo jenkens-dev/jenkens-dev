@@ -33,6 +33,6 @@ I'm a full-stack developer, focusing on frontend, whose ultimate goal is to use 
 
 ***
 
-- I love learning languages! I'm currently learning Japanese and Chinese, but I plan to teach myself Korean and German 🇯🇵 🇨🇳 🇰🇷 🇩🇪 
+- I love learning languages! I'm currently learning Japanese and Chinese, but I plan to teach myself Korean and German 🇯🇵 🇨🇳  🇰🇷  🇩🇪 
 - In my free time I enjoy riding my bike 🚴🏻‍♀️ , drawing ✏️ , and reading 📚
 - I have a degree in Zoology! 🦉
