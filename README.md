@@ -2,7 +2,8 @@
 
 ***
 
-![githubBanner](https://user-images.githubusercontent.com/25398021/87609292-fa113280-c6b6-11ea-9147-ebfac924936e.jpg =100%)
+<img src="https://user-images.githubusercontent.com/25398021/87609292-fa113280-c6b6-11ea-9147-ebfac924936e.jpg" width="100%" alt="banner image that says Jen Kennedy, Frontend Developer, React, TypeScript, GraphQL, JavaScript"/>
+
 <!--
 **Taljjaa/Taljjaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
