@@ -2,8 +2,6 @@
 
 ***
 
-<img src="https://user-images.githubusercontent.com/25398021/87609292-fa113280-c6b6-11ea-9147-ebfac924936e.jpg" width="100%" alt="banner image that says Jen Kennedy, Frontend Developer, React, TypeScript, GraphQL, JavaScript"/>
-
 <img src="https://user-images.githubusercontent.com/25398021/87615150-e2da4100-c6c6-11ea-89b6-cefc813100ca.png" width="100%" alt="banner image that says Jen Kennedy, Frontend Developer, React, TypeScript, GraphQL, JavaScript"/>
 
 <!--
