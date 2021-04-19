@@ -2,22 +2,7 @@
 
 ***
 
-<img src="https://user-images.githubusercontent.com/25398021/87615150-e2da4100-c6c6-11ea-89b6-cefc813100ca.png" width="100%" alt="banner image that says Jen Kennedy, Frontend Developer, React, TypeScript, GraphQL, JavaScript"/>
-
-<!--
-**Taljjaa/Taljjaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://user-images.githubusercontent.com/25398021/87615150-e2da4100-c6c6-11ea-89b6-cefc813100ca.png" width="75%" alt="banner image that says Jen Kennedy, Frontend Developer, React, TypeScript, GraphQL, JavaScript"/>
 
 I'm a full-stack developer, focusing on frontend, whose ultimate goal is to use technology to have a positive impact on the world around me. I love working with TypeScript, React, and GraphQL. I'm currently working on website to connect nonprofits and volunteers, built with React, TypeScript, GraphQL & Apollo, and PostgreSQL. Feel free to check it out [here](https://github.com/Taljjaa/PlayItForward-Client)! I'm looking for a full time developer position and I'd love to connect with other people on [LinkedIn](https://www.linkedin.com/in/jenkens/). 
 
@@ -32,6 +17,6 @@ I'm a full-stack developer, focusing on frontend, whose ultimate goal is to use 
 
 ***
 
-- I love learning languages! I'm currently learning Japanese and Chinese, but I plan to teach myself Korean and German 🇯🇵 🇨🇳  🇰🇷  🇩🇪 
+- I love learning languages! I'm currently teaching myself Japanese!
 - In my free time I enjoy riding my bike 🚴🏻‍♀️ , drawing ✏️ , and reading 📚
 - I have a degree in Zoology! 🦉
