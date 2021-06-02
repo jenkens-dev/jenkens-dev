@@ -9,7 +9,7 @@ I'm a full-stack developer, focusing on frontend, whose ultimate goal is to use 
 ***
 
 - [Twitter](https://twitter.com/jenkens_) ✍🏻 
-- [Digital Garden](https://the-learning-project.netlify.app/) 🌱 , a pressure free place where I post my thoughts and learnings about tech
+- [Digital Garden](https://www.jenkens.dev/) 🌱 , a pressure free place where I post my thoughts and learnings about tech
 
 ### Fun facts about me
 
