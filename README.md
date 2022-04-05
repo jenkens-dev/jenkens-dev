@@ -2,7 +2,7 @@
 
 ***
 
-I'm a full-stack developer, focusing on frontend, whose ultimate goal is to use technology to have a positive impact on the world around me. I love working with TypeScript, React, and GraphQL. I'm looking for a full time developer position and I'd love to connect with other people on [LinkedIn](https://www.linkedin.com/in/jenkens/). 
+I'm a full-stack developer, focusing on frontend, whose ultimate goal is to use technology to have a positive impact on the world around me. I love working with TypeScript, React, and GraphQL. I'd love to connect with other people on [LinkedIn](https://www.linkedin.com/in/jenkens/). 
 
 ### Where to find me 🕸️
 
